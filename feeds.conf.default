@@ -1,5 +1,6 @@
 src-git packages https://github.com/coolsnowwolf/packages
-src-git luci https://github.com/hpx502766238/luci-mediatek.git
+#src-git luci https://github.com/hpx502766238/luci-mediatek.git
+src-git luci https://github.com/201821143044/luci-mediatek.git
 src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git video https://github.com/openwrt/video.git
